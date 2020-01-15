@@ -1,4 +1,4 @@
-draw_sprite(spr_table_background, 0, x, y);
+draw_sprite(spr_table_background, 1, x, y);
 for(var i =start_from ; i < clamp(start_from+7,0,cards); i++) {
 	card_y = y- start_indent + ((i-start_from) * 50);
 	draw_sprite(s_card_item, 0, x, card_y);
