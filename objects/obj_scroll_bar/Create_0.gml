@@ -1,0 +1,9 @@
+value = 0; //from 0 to 100
+start_possition = 10; 
+end_possition = sprite_height-10;
+scroll_button_possition_y = y + start_possition;
+button_sprite = spr_scroll_button
+button_height = sprite_get_height(button_sprite);
+button_width = sprite_get_width(button_sprite);
+disable = false;
+dragging = false;

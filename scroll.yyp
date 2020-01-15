@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1cce654a-0793-43d8-a42c-631d1317a352",
+            "Value": {
+                "id": "5b8abc1d-7699-4983-95ea-645fe953dd95",
+                "resourcePath": "objects\\obj_scrollable_table\\obj_scrollable_table.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "214d9127-eb09-4c1d-b48f-af6071151051",
             "Value": {
                 "id": "4a76e5ad-16c6-4b65-a5ed-3cad762581d5",
@@ -92,6 +100,14 @@
                 "id": "de05b066-b0f1-4891-8d5b-8c01cca658d9",
                 "resourcePath": "views\\480581d1-342b-4a67-9d20-aa978a4b3735.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4954b17a-0ead-4579-a444-0da0aff13d1e",
+            "Value": {
+                "id": "a7d56e76-6399-4bd4-ae4c-e0d01bed5feb",
+                "resourcePath": "sprites\\spr_table_background\\spr_table_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,6 +183,14 @@
             }
         },
         {
+            "Key": "b100d18a-af35-47f7-a7b8-0ad747a6109d",
+            "Value": {
+                "id": "97bb21c7-75e8-49d6-94fd-8b5980b69fcf",
+                "resourcePath": "sprites\\spr_scroll_bar\\spr_scroll_bar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b4b7578a-9000-4b05-8ee8-802cba7c075e",
             "Value": {
                 "id": "29399eda-75fa-4e77-9272-847ac7e202d3",
@@ -231,6 +255,14 @@
             }
         },
         {
+            "Key": "e6b442e6-c141-4ac8-a3f4-c3ed2d0b24e3",
+            "Value": {
+                "id": "3dcf9ee6-54f1-4e0d-8c47-8a52ce0d2100",
+                "resourcePath": "objects\\obj_scroll_bar\\obj_scroll_bar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e8b6194e-6f1c-4466-adc2-504db543e1ea",
             "Value": {
                 "id": "e6682112-9ff8-47ac-913f-a6d60a594b4a",
@@ -250,7 +282,7 @@
             "Key": "f2431b9d-1574-48e4-ac47-f378e681fc15",
             "Value": {
                 "id": "29dde800-f1c0-4978-a2b2-c7cd08a2166d",
-                "resourcePath": "sprites\\s_general_scroll\\s_general_scroll.yy",
+                "resourcePath": "sprites\\spr_scroll_button\\spr_scroll_button.yy",
                 "resourceType": "GMSprite"
             }
         },
