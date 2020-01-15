@@ -18,6 +18,14 @@ if (!disable){
 		}
 	}
 
+	if (mouse_wheel_down()){
+		value += 5;	
+	}
+	else {
+		if (mouse_wheel_up()){
+			value -= 5;	
+		}	
+	}
 	if (value < 0 || value > 100){
 		value = clamp(value, 0, 100);
 	}
