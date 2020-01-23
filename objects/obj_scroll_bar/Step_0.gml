@@ -26,6 +26,9 @@ if (!disable){
 			value -= 5;	
 		}	
 	}
+	
+	
+	
 	if (value < 0 || value > 100){
 		value = clamp(value, 0, 100);
 	}
